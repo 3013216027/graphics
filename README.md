@@ -1,2 +1,1 @@
-# graphics
-JBer's graphics course notes
+##这是一小部分上课笔记
